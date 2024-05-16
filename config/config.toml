@@ -1,0 +1,3 @@
+[paths]
+zip_path = "data.store-sales-time-series-forecasting.zip"
+extract_to = "data/.extracted_data"
