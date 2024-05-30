@@ -1,2 +1,3 @@
 .venv/
 data/.extracted_data/
+**/__pycache__/
