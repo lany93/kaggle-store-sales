@@ -1,5 +1,3 @@
-"""Main file."""
-
 from utils.config import Config
 from loaders.data_loader import ZipCSVLoader
 
